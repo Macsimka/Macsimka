@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ---
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<your discord id>)
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=301748180553302036)
+
 ---
 
 ### Languages and Tools:
