@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=301748180553302036)
+[<img align="left" alt="DeadMouse | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]<- **DeadMouse#4096**
 
 ---
 
