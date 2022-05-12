@@ -21,3 +21,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Macsimka&theme=radical&layout=compact)](https://github.com/Macsimka)
 
 [aboutme]: https://github.com/Macsimka
+[discord]: DeadMouse#4096
