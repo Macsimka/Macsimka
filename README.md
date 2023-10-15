@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 ---
 
-[<img align="left" alt="DeadMouse | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]<- **DeadMouse#4096**
+[<img align="left" alt="DeadMouse | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]<- **macsimka**
 
 ---
 
@@ -22,4 +22,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Macsimka&theme=radical&layout=compact)](https://github.com/Macsimka)
 
 [aboutme]: https://github.com/Macsimka
-[discord]: DeadMouse#4096
+[discord]: macsimka
