@@ -24,5 +24,7 @@
 [aboutme]: https://github.com/Macsimka
 [discord]: macsimka
 
+[![Buy me a coffee][buymeacoffee-icon]][buymeacoffee]
+
 [buymeacoffee-icon]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/deadmouse
